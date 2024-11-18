@@ -4,10 +4,16 @@ This project aims to find the best neighborhood in Pittsburgh, as defined by the
 by analyzing data from the Western Pennsylvania Regional Data Center.
 
 Team Name: Knife's Edge
+
+
 Members:
+
 Alexis Finney - alf202@pitt.edu
+
 Raunak Gill - rsg77@pitt.edu
+
 Kai Haavik - klh216@pitt.edu
+
 Canvas Group No: 47
 
 Datasets:
