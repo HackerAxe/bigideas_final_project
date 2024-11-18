@@ -5,7 +5,6 @@ by analyzing data from the Western Pennsylvania Regional Data Center.
 
 Team Name: Knife's Edge
 
-
 Members:
 
 Alexis Finney - alf202@pitt.edu
