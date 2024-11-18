@@ -3,7 +3,7 @@ Final Project for CMPINF 0010, Big Ideas in Computing and Information
 This project aims to find the best neighborhood in Pittsburgh, as defined by the neighborhood which is most environmentally friendly,
 by analyzing data from the Western Pennsylvania Regional Data Center.
 
-Team Name: Knife's Edge
+Team Name: Tree Lovers
 
 Members:
 
