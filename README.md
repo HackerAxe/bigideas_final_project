@@ -7,7 +7,7 @@ Team Name: Tree Lovers
 
 Members:
 
-Alexis Finney - alf202@pitt.edu
+Alexis (Tiberius) Finney - alf202@pitt.edu
 
 Raunak Gill - rsg77@pitt.edu
 
